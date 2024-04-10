@@ -4,7 +4,7 @@
             "id": 1,
             "nume": "Tango",
             "varsta": 18,
-            "imagine": ""
+            "imagine": "https://raw.githubusercontent.com/statesandra/dance-data/main/about1.jpg"
         },
         {
             "id": 2,
