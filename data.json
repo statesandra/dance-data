@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "nume": "Tango",
+            "varsta": 18,
+            "imagine": ""
+        },
+        {
+            "id": 2,
+            "nume": "Vals",
+            "varsta": 8,
+            "imagine": ""
+        },
+        {
+            "id": 3,
+            "nume": "Chacha",
+            "varsta": 28,
+            "imagine": ""
+        },
+    ]
+}
